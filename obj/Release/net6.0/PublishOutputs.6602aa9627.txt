@@ -1,0 +1,7 @@
+D:\GIT\Microsoft-Session\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.exe
+D:\GIT\Microsoft-Session\MyFirstAzureWebApp\bin\Release\net6.0\publish\appsettings.Development.json
+D:\GIT\Microsoft-Session\MyFirstAzureWebApp\bin\Release\net6.0\publish\appsettings.json
+D:\GIT\Microsoft-Session\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.dll
+D:\GIT\Microsoft-Session\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.deps.json
+D:\GIT\Microsoft-Session\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.runtimeconfig.json
+D:\GIT\Microsoft-Session\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.pdb
