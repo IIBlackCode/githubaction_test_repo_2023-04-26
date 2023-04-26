@@ -1,4 +1,4 @@
-name: Example key vault flow
+    name: Example key vault flow
 
     on: [push]
 
@@ -11,9 +11,9 @@ name: Example key vault flow
         - uses: Azure/login@v1
           with:
             creds: ${{ secrets.AZURE_CREDENTIALS }}
-        - uses: Azure/get-myfirstwebappkv-kms-secrets@v1
+        - uses: Azure/get-keyvault-secrets@v1
           with: 
-            keyvault: "containervault-webapp"
+            keyvault: "myfirstwebappkv-kms"
             secrets: 'containerPassword, containerUsername'
           id: myGetSecretAction
         - uses: azure/docker-login@v1
