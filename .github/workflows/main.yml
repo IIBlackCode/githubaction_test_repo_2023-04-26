@@ -14,7 +14,7 @@
         - uses: Azure/get-keyvault-secrets@v1
           with: 
             keyvault: "myfirstwebappkv-kms"
-            secrets: 'containerPassword, containerUsername'
+            secrets: 'Zwy2e60IUllR0XvTj1PTPA3VXN0OaW2flNt9hsD/Sx+ACRCgel3O, ovLGLFKuz+wejWDN9ejSSw7EqiUl9UVcrCzeJSPU4j+ACRByEHin'
           id: myGetSecretAction
         - uses: azure/docker-login@v1
           with:
